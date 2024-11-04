@@ -49,7 +49,11 @@ Contributions are encouraged! If you have ideas for improvements or features, pl
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact
-For any inquiries or feedback, please reach out to [your email or GitHub profile link].
+For any inquiries or feedback, please reach out to [raihanulislam652@gmail.com].
 
 ## Acknowledgments
 Thank you to all contributors and users who provide feedback to improve this system.
+
+---
+
+Feel free to modify any placeholders or sections to suit your project's specific details!
